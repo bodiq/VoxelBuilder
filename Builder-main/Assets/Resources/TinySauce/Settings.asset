@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faa11ec82e9746928e211e7f096812ca, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  gameAnalyticsIosGameKey: 
+  gameAnalyticsIosSecretKey: 
+  gameAnalyticsAndroidGameKey: 0daf2e4ddf06b984342cc16eb0266161
+  gameAnalyticsAndroidSecretKey: 18c90c9a3f37389ebe84b38deb038e0536cc0c2b
+  facebookAppId: 548786557005921
+  facebookClientToken: 46e5725939046deaea425ee89e34ba27
+  adjustIOSToken: 
+  adjustAndroidToken: 8b6y1e38vls0
+  EditorIdfa: a58078fd-26c4-44bd-b051-004da8add171
+  UseRemoteConfig: 0
+  UseVoodooAnalytics: 1
+  companyName: Nineva Studios
+  privacyPolicyURL: https://ninevastudios.com/privacy-policy.html
+  developerContactEmail: info@ninevastudios.com
